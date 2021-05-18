@@ -1,2 +1,2 @@
 # LearningGoWeekly
-every week update a library about golang
+每个礼拜跟新一个Golang包的笔记，如果是很大的包可能会花几个礼拜，会讲解该包的常见使用和源码的分析, 会讲的比较详细
