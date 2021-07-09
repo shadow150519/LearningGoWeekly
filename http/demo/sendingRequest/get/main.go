@@ -25,4 +25,5 @@ func main() {
 	params.Set("age","20")
 	Url.RawQuery = params.Encode()
 	resp, err = http.Get(Url.String())
+
 }
